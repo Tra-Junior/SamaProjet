@@ -1,5 +1,6 @@
 body{
 	background-color:#1abc9c;
+	border: 150px solid gray;
 }
 
 p{
@@ -8,6 +9,10 @@ p{
 }
 
 h1{
+	text-align: center;
+	text-decoration: underline;
+}
+h2{
 	text-align: center;
 	text-decoration: underline;
 }
